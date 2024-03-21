@@ -1,0 +1,8 @@
+Datascience student
+
+Classes
+	-list relevant classes with hyperlinks to notable work
+
+Research
+	- list  projects
+	- papers I read
